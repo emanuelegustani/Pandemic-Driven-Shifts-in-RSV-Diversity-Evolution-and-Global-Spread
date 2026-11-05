@@ -1,3 +1,3 @@
 # Pandemic-Driven-Shifts-in-RSV-Diversity-Evolution-and-Global-Spread
 This repository contains the data and analytical code supporting the study on how air mobility and diversifying selection have shaped the global dynamics of Respiratory Syncytial Virus (RSV) following the COVID-19 pandemic.
-Pre-print available: https://doi.org/10.64898/2026.11.02.26367099
+Preprint available: https://doi.org/10.64898/2026.11.02.26367099
